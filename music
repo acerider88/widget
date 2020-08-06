@@ -28,6 +28,7 @@ http://stream.revma.ihrhls.com/zc6850/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free Radio" radio="true",iHeart2010s
 http://stream.revma.ihrhls.com/zc8478/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free iHeart Radio" radio="true",iHeart Countdown
+http://stream.revma.ihrhls.com/zc6455/hls.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bsIZacO.jpg",Relaxing Guitar
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pNKGdiA.jpg",Fireplace
