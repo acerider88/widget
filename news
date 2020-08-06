@@ -2,12 +2,18 @@
 http://blank
 #EXTINF:-1 tvg-logo="https://imgur.com/wIrLgNy.jpg",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global
+#EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC
+#EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC News
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KJRmCJY.jpg",BBC
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://imgur.com/1jSY02p.jpg",Sky
