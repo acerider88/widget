@@ -32,8 +32,7 @@ http://stream.revma.ihrhls.com/zc6455/hls.m3u8
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bsIZacO.jpg",Relaxing Guitar
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",Christmas
-http://ice-sov.musicradio.com/Heartextra
+
 #EXTINF:-1 tvg-logo="https://imgur.com/pNKGdiA.jpg",Fireplace
 https://ipad2snagfilms.akamaized.net/fireplace_home_classic_edition_HD/fireplace_home_classic_edition_HD_2564k.m3u8
 -----
