@@ -2,13 +2,13 @@
 http://blank
 #EXTINF:-1 tvg-logo="https://imgur.com/wIrLgNy.jpg",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global News
+#EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global News Network
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC News
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
