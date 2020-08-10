@@ -16,8 +16,6 @@ http://stream.revma.ihrhls.com/zc6882/hls.m3u8
 http://stream.revma.ihrhls.com/zc6873/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free Radio" radio="true",1970s
 http://stream.revma.ihrhls.com/zc6843/hls.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeart80sRadio_225x225.png?raw=true" group-title="Free Radio" radio="true",1980s
 https://stream.revma.ihrhls.com/zc5060/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free Radio" radio="true",1990s
@@ -32,7 +30,6 @@ http://stream.revma.ihrhls.com/zc6455/hls.m3u8
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bsIZacO.jpg",Relaxing Guitar
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/pNKGdiA.jpg",Fireplace
 https://ipad2snagfilms.akamaized.net/fireplace_home_classic_edition_HD/fireplace_home_classic_edition_HD_2564k.m3u8
 -----
