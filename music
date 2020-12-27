@@ -20,6 +20,10 @@ http://stream.revma.ihrhls.com/zc8478/hls.m3u8
 http://stream.revma.ihrhls.com/zc6455/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free iHeart Radio" radio="true",One Hit Wonders
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free iHeart Radio" radio="true",Christmas Classics
+https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free Radio" radio="true",Christmas Radio
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free iHeart Radio" radio="true",Gen-X Radio
 http://stream.revma.ihrhls.com/zc5322/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free iHeart Radio" radio="true",60s-70s
