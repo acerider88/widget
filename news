@@ -8,8 +8,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GBkhTMT.jpg",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Vancouver
@@ -25,13 +25,13 @@ http://64.202.109.109/cnn
 #EXTINF:-1 tvg-logo="https://imgur.com/OImFDEn.jpg",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyiKRXm.jpg",Al Jazeera
-https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k2CqVHg.jpg",Channel Newsasia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MC3naYd.jpg",CGTN China
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iHsQ8fR.jpg",NHK Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nogLZvl.jpg",Knowledge Network
