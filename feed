@@ -17,7 +17,9 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-logo="https://imgur.com/yPtj8rZ.jpg",CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FegKSOK.jpg",CNN
-http://64.202.109.109/cnn
+ActivateWindow(10025,&quot;plugin://plugin.video.temptv/?action=ustvgoPlay&amp;url=https%3a%2f%2fustvgo.tv%2fplayer.php%3fstream%3dCNN&quot;,return)
+#EXTINF:-1 tvg-logo="https://imgur.com/h1EI60U.jpg",MSNBC
+ActivateWindow(10025,&quot;plugin://plugin.video.temptv/?action=ustvgoPlay&amp;url=https%3a%2f%2fustvgo.tv%2fplayer.php%3fstream%3dMSNBC&quot;,return)
 #EXTINF:-1 tvg-logo="https://imgur.com/OImFDEn.jpg",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyiKRXm.jpg",Al Jazeera
