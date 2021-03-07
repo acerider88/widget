@@ -30,12 +30,12 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyiKRXm.jpg",Al Jazeera (Arab)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nogLZvl.jpg",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",Entertainment Tonight Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="493e88" tvg-name="AsianCrush" tvg-chno="247" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/kk7gXPr.png",AsianCrush
 https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",ET Live
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nogLZvl.jpg",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Animals Live
