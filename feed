@@ -24,18 +24,18 @@ plugin://plugin.video.temptv/?action=ustvgoPlay&amp;url=https%3a%2f%2fustvgo.tv%
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyiKRXm.jpg",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k2CqVHg.jpg",Channel Newsasia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MC3naYd.jpg",CGTN China
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iHsQ8fR.jpg",NHK Japan
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nogLZvl.jpg",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kk7gXPr.png",AsianCrush
 https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",ET Live
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nogLZvl.jpg",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Animals Live
