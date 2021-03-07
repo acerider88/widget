@@ -42,7 +42,44 @@ https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/in
 http://stream.revma.ihrhls.com/zc4596/hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" group-title="Free Radio" radio="true",Christmas Jazz
 https://stream.revma.ihrhls.com/zc7251/hls.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bsIZacO.jpg",Relaxing Guitar
+#EXTINF:-1 tvg-id="bb696b" tvg-name="Loop_Trending" tvg-chno="822" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/FT1HkMa.png",Loop Trending 
+https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/master.m3u8
+#EXTINF:-1 tvg-id="4c7c16" tvg-name="Loop_TGIF" tvg-chno="823" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/LcMctdw.png",Loop TGIF 
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
+#EXTINF:-1 tvg-id="abf712" tvg-name="Loop_Hottest" tvg-chno="824" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/KAMY5JE.png",Loop Hottest 
+https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/master.m3u8
+#EXTINF:-1 tvg-id="af6c51" tvg-name="Loop_Flashback" tvg-chno="825" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/A7Xx1DE.png",Loop Flashback 
+https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/master.m3u8
+#EXTINF:-1 tvg-id="b9fa92" tvg-name="Loop_Thats_Hot" tvg-chno="826" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/4j5F98K.png",Loop Thats Hot 
+https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/master.m3u8
+#EXTINF:-1 tvg-id="f11939" tvg-name="Loop_80s" tvg-chno="827" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/pbeufCj.png",Loop 80s 
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/master.m3u8
+#EXTINF:-1 tvg-id="2ce312" tvg-name="Loop_90s" tvg-chno="828" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/DImcBNy.png",Loop 90s 
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/master.m3u8
+#EXTINF:-1 tvg-id="65daf7" tvg-name="Loop_Far_Out" tvg-chno="829" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/LVTPY1q.png",Loop Far Out 
+https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/master.m3u8
+#EXTINF:-1 tvg-id="58d230" tvg-name="Loop_Party" tvg-chno="830" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/8JPEexX.png",Loop Party 
+https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
+#EXTINF:-1 tvg-id="ec1354" tvg-name="Loop_Beast" tvg-chno="831" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/syq4A4T.png",Loop Beast 
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
+#EXTINF:-1 tvg-id="827f7a" tvg-name="Loop_Hip_Hop" tvg-chno="832" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/yW7WCPm.png",Loop Hip Hop 
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
+#EXTINF:-1 tvg-id="51ea21" tvg-name="Loop_R&B" tvg-chno="833" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/uklxQzX.png",Loop R&B 
+https://d9a00e6bdafb4f9db9b446ae03b14f4b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_plex/master.m3u8
+#EXTINF:-1 tvg-id="dd79b1" tvg-name="Latin_x_Loop" tvg-chno="834" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/F89iXCW.png",Latin x Loop 
+https://c6db63f2ab884b40b3ff31e8a64bfcbb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_plex/master.m3u8
+#EXTINF:-1 tvg-id="c7f685" tvg-name="Loop_Texas_Tunes" tvg-chno="835" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/AxHHor4.png",Loop Texas Tunes 
+https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/master.m3u8
+#EXTINF:-1 tvg-id="1846e3" tvg-name="Loop_Electronica" tvg-chno="836" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/xQlkS6U.png",Loop Electronica 
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+#EXTINF:-1 tvg-id="34e8fe" tvg-name="Loop_Synapse" tvg-chno="837" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/h3sZVFT.png",Loop Synapse 
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/master.m3u8
+#EXTINF:-1 tvg-id="9208e0" tvg-name="Loop_Unwind" tvg-chno="838" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/76SU38v.png",Loop Unwind 
+https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/master.m3u8
+#EXTINF:-1 tvg-id="c084d4" tvg-name="Loop_Bedroom" tvg-chno="839" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/iGqJXDZ.png",Loop Bedroom 
+https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+
 -----
 
