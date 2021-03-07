@@ -8,9 +8,9 @@ https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/ind
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Highlights
 https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBCTV Calgary
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBCTV Vancouver
+#EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KJRmCJY.jpg",BBC News (UK)
 http://51.52.156.22:8888/http/004
@@ -34,5 +34,11 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sE0kEfF.jpg",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-id="493e88" tvg-name="AsianCrush" tvg-chno="247" group-title="EPG | Plex Live TV" tvg-logo="https://i.imgur.com/kk7gXPr.png",AsianCrush
+https://ac-samsung.plex.wurl.com/manifest/playlist.m3u8
 
 --------------------
