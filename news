@@ -13,7 +13,7 @@ https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EI2GITa.jpg",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KJRmCJY.jpg",BBC News (UK)
-http://51.52.156.22:8888/http/004
+http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1jSY02p.jpg",Sky News (UK)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wIrLgNy.jpg",Bloomberg (US)
